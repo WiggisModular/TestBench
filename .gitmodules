@@ -1,0 +1,3 @@
+[submodule "Kicad_Eurorack"]
+	path = Kicad_Eurorack
+	url = https://github.com/WiggisModular/Kicad_Eurorack.git
